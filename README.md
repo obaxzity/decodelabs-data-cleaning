@@ -118,7 +118,7 @@ This provides a simple and transparent workflow:
 
 The change log provides a documented summary of the checks and preparation activities carried out during the project.
 
-![Data Cleaning Change Log](data-cleaning-change-log.png)
+![Data Cleaning Change Log](data-cleaning-change-log.png.png)
 
 ---
 
